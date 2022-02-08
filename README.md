@@ -1,0 +1,3 @@
+# conflict_example
+
+example
